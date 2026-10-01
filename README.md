@@ -53,8 +53,7 @@ Open to full-time roles — remote or on-site.
 | Repository | What it is |
 | --- | --- |
 | [ai-agent](https://github.com/jeevithkumarjt/ai-agent) | Enterprise AI agent platform. FastAPI backend with a LangGraph supervisor routing to knowledge, support and sales specialists, pgvector retrieval, JWT auth with role-based access, SSE and WebSocket streaming, admin portal and an embeddable chat widget. |
-| [seo-monitoring-dashboard](https://github.com/jeevithkumarjt/seo-monitoring-dashboard) | Internal SEO audit and monitoring dashboard. FastAPI, Playwright crawling, Next.js interface, TimescaleDB for time-series measurements. Free data sources only. In progress. |
-| [Portfolio](https://github.com/jeevithkumarjt/Portfolio) | This portfolio site — responsive, no framework, deployed on GitHub Pages. |
+| [Portfolio](https://github.com/jeevithkumarjt/Portfolio) | My portfolio and resume site — responsive, hand-written HTML/CSS/JS, deployed on GitHub Pages. |
 
 ## Contact
 
