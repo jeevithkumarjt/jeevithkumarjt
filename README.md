@@ -101,7 +101,7 @@ Open to full-time roles — remote or on-site. Based in Tamil Nadu, India.
 
 Dashboards. All of these are in progress — nothing here is finished yet.
 
-- **SEO audit and monitoring** — crawl a site, surface issues, show how to fix each one.
+- **SEO audit and monitoring** — [seo-dashboard](https://github.com/jeevithkumarjt/seo-dashboard), crawl a site, surface issues, show how to fix each one.
 - **Lead and form attribution** — trace a lead back to the form and the source it came from.
 - **Product analytics** — usage and behaviour dashboards on top of product data.
 
