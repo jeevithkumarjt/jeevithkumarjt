@@ -99,7 +99,7 @@ Open to full-time roles — remote or on-site. Based in Tamil Nadu, India.
 
 ## Currently building
 
-Dashboards. All of these are in progress — nothing here is finished yet.
+SEO audit and monitoring dashboard = built, runs locally, hosted demo coming. Lead and form attribution dashboard = built, runs locally, hosted demo coming. Product analytics = in progress.
 
 - **SEO audit and monitoring** — [seo-dashboard](https://github.com/jeevithkumarjt/seo-dashboard), crawl a site, surface issues, show how to fix each one.
 - **Lead and form attribution** — trace a lead back to the form and the source it came from.
