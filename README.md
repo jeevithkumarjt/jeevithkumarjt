@@ -1,4 +1,4 @@
-# Jeevithkumar R | Web Developer
+# Jeevithkumar R | Software Developer
 
 I build and run complete web products, from the client call to the live server. I also build AI
 agents and dashboards.
