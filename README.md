@@ -94,8 +94,8 @@ Open to full-time roles — remote or on-site. Based in Tamil Nadu, India.
 | Repository | What it is |
 | --- | --- |
 | [**ai-agent**](https://github.com/jeevithkumarjt/ai-agent) | Enterprise AI agent platform — FastAPI backend, a LangGraph supervisor that routes each request to a knowledge, support or sales specialist, pgvector retrieval, JWT auth, streaming over SSE and WebSockets, and an embeddable chat widget. |
+| [**seo-dashboard**](https://github.com/jeevithkumarjt/seo-dashboard) | Internal SEO audit and monitoring dashboard — FastAPI, Playwright, Next.js and TimescaleDB, using free official data sources only and never showing a number it cannot measure. **In progress.** |
 | [**Portfolio**](https://github.com/jeevithkumarjt/Portfolio) | My portfolio and resume site — hand-written HTML, CSS and JavaScript, deployed on GitHub Pages. |
-| [**jeevithkumarjt**](https://github.com/jeevithkumarjt/jeevithkumarjt) | This profile README. |
 
 ## Currently building
 
