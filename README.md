@@ -114,3 +114,19 @@ SEO audit and monitoring dashboard = built, runs locally, hosted demo coming. Le
 ## License
 
 This profile README is MIT licensed — copy it, adapt it, use it on your own profile.
+
+### Models & Tools
+
+- **OpenAI API**
+- **Azure OpenAI**
+- **Claude**
+- **Gemini**
+- **Hugging Face**
+- **Ollama**
+
+### SEO & Performance
+
+- **Technical SEO**
+- **Core Web Vitals**
+- **Search Console**
+- **GoAccess**
