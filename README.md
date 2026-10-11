@@ -3,7 +3,7 @@
 I build and run complete web products, from the client call to the live server. I also build AI
 agents and dashboards.
 
-I lead a five-person development team, run six production platforms and have shipped 50+
+With 3+ years of experience, I lead a five-person development team, run six production platforms and have shipped 50+
 websites. I work on the frontend, the backend, the database and the server, so nothing gets lost
 between a requirement and something running in production.
 
@@ -94,7 +94,7 @@ Based in Tamil Nadu, India.
 | Repository | What it is |
 | --- | --- |
 | [**ai-agent**](https://github.com/jeevithkumarjt/ai-agent) | Enterprise AI agent platform — FastAPI backend, a LangGraph supervisor that routes each request to a knowledge, support or sales specialist, pgvector retrieval, JWT auth, streaming over SSE and WebSockets, and an embeddable chat widget. |
-| [**seo-dashboard**](https://github.com/jeevithkumarjt/seo-dashboard) | Internal SEO audit and monitoring dashboard — FastAPI, Playwright, Next.js and TimescaleDB, using free official data sources only and never showing a number it cannot measure. **In progress.** |
+| [**seo-dashboard**](https://github.com/jeevithkumarjt/seo-dashboard) | Internal SEO audit and monitoring dashboard — FastAPI, Playwright, Next.js and TimescaleDB, using free official data sources only and never showing a number it cannot measure. **Built · runs locally · hosted demo coming.** |
 | [**Portfolio**](https://github.com/jeevithkumarjt/Portfolio) | My portfolio and resume site — hand-written HTML, CSS and JavaScript, deployed on GitHub Pages. |
 
 ## Currently building
